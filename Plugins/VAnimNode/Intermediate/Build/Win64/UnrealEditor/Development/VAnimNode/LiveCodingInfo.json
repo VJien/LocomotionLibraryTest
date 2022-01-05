@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VAnimNode.cpp.obj": [
+			"AnimNode_SequenceEvaluator_DM.cpp.obj",
+			"VAnimNode.cpp.obj"
+		],
+		"Module.VAnimNode.gen.cpp.obj": [
+			"AnimNode_SequenceEvaluator_DM.gen.cpp.obj",
+			"VAnimNode.init.gen.cpp.obj"
+		]
+	}
+}

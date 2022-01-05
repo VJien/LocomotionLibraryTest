@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VAnimNode.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"X:\Unrela\next_unreal_engine\Engine\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"X:\UnrealProjects\Test01\Plugins\VAnimNode\Intermediate\Build\Win64\UnrealEditor\Development\VAnimNode\VAnimNode.cpp.obj"
+"X:\Unrela\next_unreal_engine\Engine\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"X:\UnrealProjects\Test01\Plugins\VAnimNode\Intermediate\Build\Win64\UnrealEditor\Development\VAnimNode\UnrealEditor-VAnimNode.lib"

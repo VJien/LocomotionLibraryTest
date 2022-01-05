@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\development\\vanimnodeeditor\\module.vanimnodeeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unrela\\next_unreal_engine\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\development\\vanimnodeeditor\\definitions.vanimnodeeditor.h",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\source\\vanimnodeeditor\\private\\graphnode\\graphnode_seuquenceevluator_dm.cpp",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\source\\vanimnodeeditor\\public\\graphnode\\graphnode_seuquenceevluator_dm.h",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\source\\vanimnodeeditor\\private\\vanimnodeeditormodule.cpp",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\source\\vanimnodeeditor\\public\\vanimnodeeditormodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

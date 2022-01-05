@@ -1,0 +1,8 @@
+{
+	"BuildId": "d415039c-07e3-459c-9840-7de903a52e47",
+	"Modules": 
+	{
+		"VAnimNode": "UnrealEditor-VAnimNode.dll",
+		"VAnimNodeEditor": "UnrealEditor-VAnimNodeEditor.dll"
+	}
+}

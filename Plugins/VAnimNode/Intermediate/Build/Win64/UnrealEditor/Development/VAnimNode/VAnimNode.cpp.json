@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "x:\\unrealprojects\\test01\\plugins\\vanimnode\\source\\vanimnode\\private\\vanimnode.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unrela\\next_unreal_engine\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\development\\vanimnode\\definitions.vanimnode.h",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\source\\vanimnode\\public\\vanimnode.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\development\\vanimnode\\module.vanimnode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unrela\\next_unreal_engine\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\development\\vanimnode\\definitions.vanimnode.h",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\inc\\vanimnode\\animnode_sequenceevaluator_dm.gen.cpp",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\source\\vanimnode\\public\\node\\animnode_sequenceevaluator_dm.h",
+            "x:\\unrela\\next_unreal_engine\\engine\\source\\runtime\\animgraphruntime\\public\\animnodes\\animnode_sequenceevaluator.h",
+            "x:\\unrela\\next_unreal_engine\\engine\\source\\runtime\\engine\\classes\\animation\\animnode_assetplayerbase.h",
+            "x:\\unrela\\next_unreal_engine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\animnode_assetplayerbase.generated.h",
+            "x:\\unrela\\next_unreal_engine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\animnode_sequenceevaluator.generated.h",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\inc\\vanimnode\\animnode_sequenceevaluator_dm.generated.h",
+            "x:\\unrealprojects\\test01\\plugins\\vanimnode\\intermediate\\build\\win64\\unrealeditor\\inc\\vanimnode\\vanimnode.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
